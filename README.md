@@ -73,4 +73,7 @@ Every push to `main` and every pull request triggers a GitHub Actions workflow. 
 
 ## Screenshots
 
-Add your two pull request screenshots here once you have them: one showing the failed check blocking the merge, and one showing the green check after the fix.
+<img width="1901" height="898" alt="Home Services API Blocked Merge" src="https://github.com/user-attachments/assets/fcb2328c-8fe5-437b-af4d-9069a1b391d6" />
+
+<img width="1896" height="868" alt="Home Services API Passed Merge" src="https://github.com/user-attachments/assets/b87e5fa0-8bf5-44a6-89bb-4f2e6712033a" />
+
