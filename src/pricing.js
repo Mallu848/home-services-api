@@ -1,5 +1,5 @@
 const SERVICES = [
-  { id: 'pressure-washing', name: 'Pressure Washing', ratePerSqFt: 0.35 },
+  { id: 'pressure-washing', name: 'Pressure Washing', ratePerSqFt: 0.3 },
   { id: 'house-soft-wash', name: 'House Soft Wash', ratePerSqFt: 0.25 },
   { id: 'window-cleaning', name: 'Window Cleaning', ratePerSqFt: 0.2 },
 ];
